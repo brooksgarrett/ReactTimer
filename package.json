@@ -1,8 +1,8 @@
 {
-  "name": "reactweather",
+  "name": "reacttimer",
   "repository": "https://github.com/brooksgarrett/ReactWeather",
   "version": "1.0.0",
-  "description": "A simple React app to tell you the temperature.",
+  "description": "A simple React app to time things.",
   "main": "index.js",
   "scripts": {
     "start": "node ./server.js",
@@ -34,6 +34,7 @@
     "karma-webpack": "^1.7.0",
     "mocha": "^2.4.5",
     "node-sass": "^3.4.2",
+    "react-addons-test-utils": "^0.14.6",
     "sass-loader": "^3.1.2",
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
